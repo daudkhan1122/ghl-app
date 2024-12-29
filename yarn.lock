@@ -89,7 +89,7 @@ __metadata:
     "@cbnsndwch/ghl-app-contracts": "npm:^0.3.6"
     "@nestjs/cli": "npm:^10.3.2"
     "@nestjs/common": "npm:^10.3.8"
-    "@nestjs/config": "npm:^3.2.2"
+    "@nestjs/config": "npm:^3.3.0"
     "@nestjs/core": "npm:^10.3.8"
     "@nestjs/mongoose": "npm:^10.0.6"
     "@nestjs/platform-express": "npm:^10.3.8"
@@ -438,18 +438,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/config@npm:^3.2.2":
-  version: 3.2.2
-  resolution: "@nestjs/config@npm:3.2.2"
+"@nestjs/config@npm:^3.3.0":
+  version: 3.3.0
+  resolution: "@nestjs/config@npm:3.3.0"
   dependencies:
     dotenv: "npm:16.4.5"
     dotenv-expand: "npm:10.0.0"
     lodash: "npm:4.17.21"
-    uuid: "npm:9.0.1"
   peerDependencies:
     "@nestjs/common": ^8.0.0 || ^9.0.0 || ^10.0.0
     rxjs: ^7.1.0
-  checksum: 10/c7f0cea0f6c73a5168b572510437d6033d27c6abdf686fa600ae42828b668470f1dd6240a3f8897e0f3c779582f4648ce28591369874e2a4bcf1e7b34c88c9b6
+  checksum: 10/46705cf69f56281d0377f3d3832954bbb7359ea2dce442c5e2311d1c07e846358ab39d9cb00df91bb3a0064ae0ae23431feda0ad53bfc9059b150b4fa8486362
   languageName: node
   linkType: hard
 
@@ -8137,15 +8136,6 @@ __metadata:
   version: 1.0.1
   resolution: "utils-merge@npm:1.0.1"
   checksum: 10/5d6949693d58cb2e636a84f3ee1c6e7b2f9c16cb1d42d0ecb386d8c025c69e327205aa1c69e2868cc06a01e5e20681fbba55a4e0ed0cce913d60334024eae798
-  languageName: node
-  linkType: hard
-
-"uuid@npm:9.0.1":
-  version: 9.0.1
-  resolution: "uuid@npm:9.0.1"
-  bin:
-    uuid: dist/bin/uuid
-  checksum: 10/9d0b6adb72b736e36f2b1b53da0d559125ba3e39d913b6072f6f033e0c87835b414f0836b45bcfaf2bdf698f92297fea1c3cc19b0b258bc182c9c43cc0fab9f2
   languageName: node
   linkType: hard
 

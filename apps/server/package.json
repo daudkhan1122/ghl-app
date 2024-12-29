@@ -23,7 +23,7 @@
         "@cbnsndwch/ghl-app-contracts": "^0.3.6",
         "@nestjs/common": "^10.3.8",
         "@nestjs/config": "^3.2.2",
-        "@nestjs/core": "^10.3.8",
+        "@nestjs/core": "^10.4.15",
         "@nestjs/mongoose": "^10.0.6",
         "@nestjs/platform-express": "^10.3.8",
         "@nestjs/serve-static": "^4.0.2",

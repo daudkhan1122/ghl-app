@@ -40,7 +40,7 @@ export class SsoSessionController {
     @ApiHeader({
         name: 'x-sso-session',
         description:
-            'The SSO session key for you app, as returned by the GHL main app.'
+            '68ccf4f3-be55-4b78-b511-ffa497a2e5fc'
     })
     @Get('ghl')
     @UseGuards(GhlSsoGuard)
